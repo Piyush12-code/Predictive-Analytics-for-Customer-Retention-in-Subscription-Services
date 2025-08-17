@@ -1,0 +1,2 @@
+# Predictive Analytics for Customer Retention in Subscription Services
+Performed ETL and exploratory data analysis (EDA) using Python, reducing features by 70% through PCA to improve model efficiency. Applied feature selection techniques such as Chi-Square and T-test to retain the most relevant features, and developed Logistic Regression, SVM, and Random Forest models in scikit-learn, improving retention accuracy by 15%.
